@@ -7,6 +7,7 @@ const vanesa = {
   pronouns: "she" | "her",
   
   code: [Javascript, HTML, CSS], 
+  
 }
 
 ![giphy (1)](https://user-images.githubusercontent.com/118428283/234659541-75eedd54-bf6e-47d1-8928-638bee938726.gif)
