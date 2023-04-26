@@ -1,5 +1,16 @@
 ### Hi there 👋 I’m Vanesa 
-![nRm](https://user-images.githubusercontent.com/118428283/234647025-57a5c898-b7bc-41f0-bccb-1458f8640348.gif)
+
+About me...
+
+const vanesa = {
+  
+  pronouns: "she" | "her",
+  
+  code: [Javascript, HTML, CSS], 
+}
+
+![giphy (1)](https://user-images.githubusercontent.com/118428283/234659541-75eedd54-bf6e-47d1-8928-638bee938726.gif)
+
 
 <!--
 **vanezalazar/vanezalazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +27,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-About me...
-const vanesa = {
-  pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS], 
-}
 
