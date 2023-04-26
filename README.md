@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I’m Vanesa 
+![nRm](https://user-images.githubusercontent.com/118428283/234647025-57a5c898-b7bc-41f0-bccb-1458f8640348.gif)
 
 <!--
 **vanezalazar/vanezalazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-const vanezalazar = {
-pronouns:she her;
-code[ JavaScript, HTML, CSS]
+
+About me...
+const vanesa = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS], 
 }
+
