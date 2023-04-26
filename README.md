@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+const vanezalazar = {
+pronouns:she her;
+code[ JavaScript, HTML, CSS]
+}
